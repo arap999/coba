@@ -3,14 +3,14 @@ var score = prompt("masukkan nilai anda");
 switch (score) {
     case 90:
         console.log("anda mendapat nilai A+");
-        break
+        break;
     case 80:
         console.log("anda mendapat  nilai B+");
-        break
+        break;
     case 75:
         console.log("anda mendapat nilai B-");
-        break
+        break;
     case 60:
         console.log("maaf anda tidak lulu");
-        break
+        break;
 };
